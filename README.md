@@ -90,8 +90,7 @@ Some lines of code are not functioning as expected on **GitHub**, but they work 
 ![Screenshot 2025-01-03 132500](https://github.com/user-attachments/assets/e65983af-78b8-4055-9cf5-746d32fc0026)
 
 
-
-![thank-you-thanks](https://github.com/user-attachments/assets/21a34887-e103-4f8f-9649-2134906f488a)
+<p align="center"> <img src="https://payload535.cargocollective.com/1/17/569900/13012841/Thanks-gif.gif" alt="Thank You" /> </p>
 
 
 
