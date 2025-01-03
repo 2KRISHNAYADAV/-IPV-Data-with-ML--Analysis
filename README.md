@@ -1,5 +1,23 @@
+
+
+
 # IPV-Data-with-ML--Analysis
 
+-----------
+
+
+# Project Assignment Details
+
+![Screenshot 2025-01-03 132956](https://github.com/user-attachments/assets/1c1d3042-a2d9-409a-b893-7f6631f99734)
+
+This project was assigned by **UNIFIED MENTOR** as part of the internship program on **January 1, 2025**.  
+
+---
+
+## Intern Details  
+- **Name:** Krishna Shyambahadur Yadav  
+
+---
 <h1 style="text-align: center; font-size: 3em; color: #38B1B5; font-family: 'Arial', sans-serif;">
    ! Interactive Pharmaceutical Visualization Data with <span style="color: #CED067;">ML</span> - Analysis & Understanding ~
 </h1>
